@@ -1,0 +1,24 @@
+{
+  "name": "tsi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.8.6",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-jasmine": "^3.0.0",
+    "gulp-typescript": "^4.0.1",
+    "jasmine": "^3.0.0",
+    "typescript": "^2.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

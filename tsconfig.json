@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "none",
+    "noImplicitAny": false,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "target": "es6",
+    "declaration": true
+  },
+  "include": [
+    "Content/**/*.ts",
+    "Tests/**/*.ts"
+  ]
+
+}
+

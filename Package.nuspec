@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>JSI</id>
+    <version>0.1.11</version>
+    <title>JSI</title>
+    <authors>Thomas Siegfried</authors>
+    <owners></owners>
+    <description>
+      A javascript injection utility.
+    </description>
+    <releaseNotes>
+    </releaseNotes>
+    <summary>
+      The Javascript Injector
+    </summary>
+    <language>en-US</language>
+    <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies>
+    </dependencies>
+    <references></references>
+    <tags></tags>
+  </metadata>
+  <files>
+    <file src="build\Scripts\jsi.js" target="content\Scripts\jsi.js" />
+    <file src="build\Scripts\jsi.d.ts" target="content\Scripts\jsi.d.ts" />
+    <file src="tests\**\*.ts" target="tests"/>
+  </files>
+</package>
