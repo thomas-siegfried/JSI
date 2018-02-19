@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>JSI</id>
-    <version>0.1.11</version>
+    <version>0.1.12</version>
     <title>JSI</title>
     <authors>Thomas Siegfried</authors>
     <owners></owners>
@@ -15,6 +15,7 @@
       The Javascript Injector
     </summary>
     <language>en-US</language>
+    <projectUrl>https://github.com/thomas-siegfried/JSI</projectUrl>
     <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>
