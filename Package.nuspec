@@ -2,17 +2,17 @@
 <package >
   <metadata>
     <id>JSI</id>
-    <version>0.1.12</version>
+    <version>0.1.13</version>
     <title>JSI</title>
     <authors>Thomas Siegfried</authors>
     <owners></owners>
     <description>
-      A javascript injection utility.
+      A simple lightweight dependency injection framework for javascript
     </description>
     <releaseNotes>
     </releaseNotes>
     <summary>
-      The Javascript Injector
+      A simple lightweight dependency injection framework for javascript
     </summary>
     <language>en-US</language>
     <projectUrl>https://github.com/thomas-siegfried/JSI</projectUrl>
